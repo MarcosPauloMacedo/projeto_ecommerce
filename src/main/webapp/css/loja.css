@@ -1,0 +1,59 @@
+.styleLoja{
+    background: #009EE3;
+}
+
+.width-100-vh{
+    width: 100vw;
+}
+
+.styleBackTitle{
+    background: #32BCF8;
+    width: 50%;
+    text-align: center;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+.backWhite{
+    background: #fff;
+}
+
+.maquininha{
+    border: 15px solid #009EE3;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mp-imagemMaquininha{
+    text-align: center;
+}
+
+.img-maquininha-mp{
+    height: 150px;
+    margin-top: 10px;
+}
+
+.textAlignCenter{
+    text-align: center;
+}
+
+.botao-comprar{
+    align-self: center;
+    color: #fff;
+    background: #009EE3;
+    border-radius: 5px;
+    padding: 8px;
+    border: none;
+    width: 70%;
+}
+
+.preco-valor{
+    text-decoration: line-through;
+}
+
+.desconto-tamanho{
+    background: #5AC58E;
+    border-radius: 5px;
+    padding: 0 5px 0 5px;
+}
